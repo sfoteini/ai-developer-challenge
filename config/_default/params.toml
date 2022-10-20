@@ -1,0 +1,113 @@
+# Meta Data for SEO
+
+## Homepage
+title = "AI Dev Challenge"
+titleSeparator = "-"
+titleAddition = "By Foteini Savvidou"
+description = "Get a solid foundation in machine learning and AI concepts and related Microsoft Azure services. This learning journey is designed for participants with both technical and nontechnical backgrounds. In this challenge, you'll learn how to create no-code predictive models, explore computer vision, natural language processing, conversational AI and so much more."
+
+## Documentation
+# docsVersion = "0.3"
+
+## Open Graph
+images = ["ai-dev-challenge.png"]
+ogLocale = "en_US"
+domainTLD = ""
+titleHome = "30-Day AI Developer Challenge"
+
+## Twitter Cards
+twitterSite = "@SavvidouFoteini"
+twitterCreator = "@SavvidouFoteini"
+
+## JSON-LD
+# schemaType = "Person"
+schemaType = "Organization"
+schemaName = "30-Day AI Developer Challenge"
+schemaAuthor = "Foteini Savvidou"
+schemaAuthorTwitter = "https://twitter.com/SavvidouFoteini"
+schemaAuthorLinkedIn = "https://www.linkedin.com/in/foteini-savvidou"
+schemaAuthorGitHub = "https://github.com/sfoteini"
+schemaLocale = "en-US"
+schemaLogo = ""
+schemaLogoWidth = 512
+schemaLogoHeight = 512
+schemaImage = "ai-dev-challenge.png"
+schemaImageWidth = 1280
+schemaImageHeight = 640
+schemaTwitter = "https://twitter.com/SavvidouFoteini"
+schemaLinkedIn = "https://www.linkedin.com/in/foteini-savvidou"
+schemaGitHub = "https://github.com/sfoteini"
+schemaSection = ""
+
+## Sitelinks Search Box
+siteLinksSearchBox = false
+
+## Chrome Browser
+# themeColor = "#fff"
+
+# Images
+quality = 95
+bgColor = "#fff"
+landscapePhotoWidths = [900, 800, 700, 600, 500]
+portraitPhotoWidths = [800, 700, 600, 500]
+lqipWidth = "20x"
+smallLimit = "300"
+
+# Images
+imageResponsive = true
+imageConvertTo = "webp"
+imageImageSizes = ["480","720","1080","1280","1600","2048"]
+singleSize = false
+imageAddClass = "img-fluid lazyload blur-up"
+
+### Image template
+defaultImage = "default-image.png" # put in `./assets/images/`
+fillImage = "1270x740 Center" # normalize image size
+
+# Footer
+footer = "Copyright © 2022 Foteini Savvidou - Powered by Hugo and Doks"
+
+# Feed
+copyRight = "Copyright (c) 2022 Foteini Savvidou"
+
+# Alert
+alert = true
+alertDismissable = true
+alertText = "Join the <a class=\"alert-link stretched-link\" href=\"#\" rel=\"noopener\" target=\"_blank\">AI Developer Challenge</a> and explore machine learning and AI concepts, including computer vision, conversational AI and so much more!"
+
+# Edit Page
+# repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
+repoHost = "GitHub"
+#repoHost = "Gitea"
+docsRepo = ""
+docsRepoBranch = "master"
+docsRepoSubPath = ""
+editPage = false
+lastMod = false
+
+[sections]
+  sectionNav = ["docs"]
+
+[options]
+  lazySizes = true
+  clipBoard = true
+  instantPage = true
+  flexSearch = true
+  searchSectionsShow = []
+  searchSectionsIndex = []
+  darkMode = true
+  bootStrapJs = true
+  breadCrumb = false
+  highLight = true
+  kaTex = false
+  multilingualMode = false
+  docsVersioning = false
+  fullWidth = false
+  navbarSticky = true
+  toTopButton = false
+  scrollSpy = false # experimental; needs Bootstrap >= 5.2.0-beta1
+
+[menu]
+  [menu.section]
+    auto = true
+    collapsibleSidebar = true

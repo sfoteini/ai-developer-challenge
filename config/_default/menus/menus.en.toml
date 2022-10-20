@@ -14,7 +14,7 @@
   name = "Resources"
   weight = 70
   identifier = "resources"
-  url = "/docs/resources/"
+  url = "/docs/learning-resources/"
 
 [[main]]
   name = "AI Skills"
@@ -29,7 +29,7 @@
 [[main]]
   name = "Resources"
   weight = 30
-  url = "/docs/resources/resources-for-self-study/"
+  url = "/docs/learning-resources/resources-for-self-study/"
 
 [[social]]
   name = "GitHub"

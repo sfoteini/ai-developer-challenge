@@ -17,7 +17,7 @@
   url = "/docs/learning-resources/"
 
 [[main]]
-  name = "AI Skills"
+  name = "AI Skills Challenge"
   url = "/docs/challenge/about/"
   weight = 10
 

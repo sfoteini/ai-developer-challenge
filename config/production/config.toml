@@ -1,1 +1,2 @@
-canonifyURLs = false
+baseurl = "https://sfoteini.github.io/ai-developer-challenge"
+canonifyURLs = true

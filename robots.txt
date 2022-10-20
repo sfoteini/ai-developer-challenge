@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sfoteini.github.io/ai-developer-challenge/sitemap.xml

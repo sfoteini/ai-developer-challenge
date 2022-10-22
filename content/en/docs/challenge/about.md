@@ -19,7 +19,7 @@ Get a solid foundation in machine learning and AI concepts and related Microsoft
 
 Complete the challenge in time and you will get a chance of winning one of the prizes! [Terms and Conditions →]({{< relref "terms" >}})
 
-{{< alert >}}👉 Ready to get started? [Start your learning journey →](https://learn.microsoft.com/en-us/training/challenges?id=6e166887-ecf6-4dcd-82c9-122391b174a9&wt.mc_id=studentamb_49820&WT.mc_id=AI-MVP-5004971){{< /alert >}}
+{{< alert >}}👉 Ready to get started? [Start your learning journey →](https://learn.microsoft.com/training/challenges?id=6e166887-ecf6-4dcd-82c9-122391b174a9&wt.mc_id=studentamb_49820&WT.mc_id=AI-MVP-5004971){{< /alert >}}
 
 
 ### Why should you participate?

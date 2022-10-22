@@ -31,4 +31,4 @@ Challenge end time: November 30, 2022
 
 ## Ready to get started?
 
-[Start your learning journey →](https://learn.microsoft.com/en-us/training/challenges?id=6e166887-ecf6-4dcd-82c9-122391b174a9&wt.mc_id=studentamb_49820&WT.mc_id=AI-MVP-5004971)
+[Start your learning journey →](https://learn.microsoft.com/training/challenges?id=6e166887-ecf6-4dcd-82c9-122391b174a9&wt.mc_id=studentamb_49820&WT.mc_id=AI-MVP-5004971)

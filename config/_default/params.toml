@@ -73,7 +73,7 @@ copyRight = "Copyright (c) 2022 Foteini Savvidou"
 # Alert
 alert = true
 alertDismissable = true
-alertText = "Join the <a class=\"alert-link stretched-link\" href=\"#\" rel=\"noopener\" target=\"_blank\">AI Developer Challenge</a> and explore machine learning and AI concepts, including computer vision, conversational AI and so much more!"
+alertText = "Join the <a class=\"alert-link stretched-link\" href=\"https://learn.microsoft.com/en-us/training/challenges?id=6e166887-ecf6-4dcd-82c9-122391b174a9&wt.mc_id=studentamb_49820&WT.mc_id=AI-MVP-5004971\" rel=\"noopener\" target=\"_blank\">AI Developer Challenge</a> and explore machine learning and AI concepts, including computer vision, conversational AI and so much more!"
 
 # Edit Page
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster

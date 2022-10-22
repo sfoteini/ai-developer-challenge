@@ -24,11 +24,11 @@ If you don’t have a Microsoft Learn profile, that is okay. You can create a fr
 
 To complete this challenge, you'll need to finish the designated collection of Microsoft Learn content before the challenge end date.
 
-Challenge start time: TBA
+Challenge start time: November 1, 2022
 
-Challenge end time: TBA
+Challenge end time: November 30, 2022
 
 
 ## Ready to get started?
 
-[Start your learning journey →](#)
+[Start your learning journey →](https://learn.microsoft.com/en-us/training/challenges?id=6e166887-ecf6-4dcd-82c9-122391b174a9&wt.mc_id=studentamb_49820&WT.mc_id=AI-MVP-5004971)

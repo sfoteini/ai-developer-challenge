@@ -24,9 +24,9 @@ If you don’t have a Microsoft Learn profile, that is okay. You can create a fr
 
 To complete this challenge, you'll need to finish the designated collection of Microsoft Learn content before the challenge end date.
 
-Challenge start time: November 1, 2022
+Challenge start date: November 1, 2022
 
-Challenge end time: November 30, 2022
+Challenge end date: November 30, 2022
 
 
 ## Ready to get started?

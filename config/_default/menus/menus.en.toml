@@ -5,14 +5,8 @@
   url = "/docs/challenge/"
 
 [[docs]]
-  name = "Live streams"
-  weight = 60
-  identifier = "sessions"
-  url = "/docs/sessions/"
-
-[[docs]]
   name = "Resources"
-  weight = 70
+  weight = 20
   identifier = "resources"
   url = "/docs/learning-resources/"
 
@@ -22,18 +16,13 @@
   weight = 10
 
 [[main]]
-  name = "Events"
-  url = "/docs/sessions/"
-  weight = 20
-
-[[main]]
   name = "Resources"
-  weight = 30
+  weight = 20
   url = "/docs/learning-resources/resources-for-self-study/"
 
 [[main]]
   name = "Event Badge"
-  weight = 40
+  weight = 30
   url = "/event-badge/"
 
 [[social]]

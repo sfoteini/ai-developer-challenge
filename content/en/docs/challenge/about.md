@@ -31,6 +31,15 @@ Complete the challenge in time and you will get a chance of winning one of the p
 * **Win**: Complete the challenge in time and you will get a chance of winning a LinkedIn Premium voucher! See [Terms and Conditions]({{< relref "terms" >}}) for eligibility details.
 
 
+## Event Badge
+
+Are you taking part in the 30-Day AI Developer Challenge? Grab your official [event badge]({{< relref "event-badge" >}}) and share it on social using #CloudSkillsChallenge.
+
+### Azure Heroes Badge
+
+All participants that complete the 30-Day AI Developer Challenge in time are also qualified to get a Learner badge of the [Azure Heroes](https://www.microsoft.com/skills/azureheroes) program. Challenge yourself to build innovative AI projects using Azure AI services and become an Azure Hero!
+
+
 ## Meet the organizer
 
 <img src="/images/foteini_savvidou.jpg" title="Foteini Savvidou" alt="Foteini Savvidou" class="img-simple img-fluid blur-up border-0 ls-is-cached lazyloaded" width="200"/>

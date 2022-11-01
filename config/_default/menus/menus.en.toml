@@ -4,21 +4,21 @@
   identifier = "challenge"
   url = "/docs/challenge/"
 
-[[docs]]
-  name = "Resources"
-  weight = 20
-  identifier = "resources"
-  url = "/docs/learning-resources/"
+# [[docs]]
+#  name = "Resources"
+#  weight = 20
+#  identifier = "resources"
+#  url = "/docs/learning-resources/"
 
 [[main]]
   name = "AI Skills Challenge"
   url = "/docs/challenge/about/"
   weight = 10
 
-[[main]]
-  name = "Resources"
-  weight = 20
-  url = "/docs/learning-resources/resources-for-self-study/"
+# [[main]]
+#  name = "Resources"
+#  weight = 20
+#  url = "/docs/learning-resources/resources-for-self-study/"
 
 [[main]]
   name = "Event Badge"

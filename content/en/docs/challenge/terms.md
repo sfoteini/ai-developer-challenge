@@ -19,4 +19,4 @@ All eligible individuals who complete the 30-Day AI Developer Challenge will get
 
 * The vouchers will be raffled at random.
 
-* Challenge participants earn one (1) incentive raffle submission for every 10 modules completed. Limit one (1) voucher per person.
+* Limit one (1) voucher per person.

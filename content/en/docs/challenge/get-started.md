@@ -28,6 +28,19 @@ Challenge start date: November 1, 2022
 
 Challenge end date: November 30, 2022
 
+## How do I claim my reward?
+
+1. Complete the challenge.
+2. Take a screenshot of the challenge.
+    * Username and Email must be visible.
+    * Number of completed modules must be visible.
+
+    <img src="/images/screenshot.png" alt="Screenshot of the challenge" class="img-simple img-fluid blur-up border-0 ls-is-cached lazyloaded mt-2 mb-3" width="600"/>
+
+3. Submit the screenshot on the event form (TBA).
+
+All participants that complete the challenge in time are qualified to get an Azure Hero Learner badge and are entered into a raffle for a chance to win a 12-month LinkedIn Premium voucher!
+
 
 ## Ready to get started?
 

@@ -4,7 +4,7 @@ description: "Resources For Self-Study about AI and Machine Learning."
 lead: "Want to continue your AI Developer learning journey? Check out the following resources and don't forget to check back here every week for more AI/ML content."
 date: 2022-10-16T13:26:54+01:00
 lastmod: 2022-10-16T13:26:54+01:00
-draft: false
+draft: true
 images: []
 menu:
   docs:

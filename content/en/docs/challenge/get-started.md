@@ -37,7 +37,7 @@ Challenge end date: November 30, 2022
 
     <img src="/images/screenshot.png" alt="Screenshot of the challenge" class="img-simple img-fluid blur-up border-0 ls-is-cached lazyloaded mt-2 mb-3" width="600"/>
 
-3. Submit the screenshot on the event form (TBA).
+3. Submit the screenshot on the [event form](https://forms.gle/W5b64dXjLGHwzGxM7). (Deadline - December 4, 2022)
 
 All participants that complete the challenge in time are qualified to get an Azure Hero Learner badge and are entered into a raffle for a chance to win a 12-month LinkedIn Premium voucher!
 
